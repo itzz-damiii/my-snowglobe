@@ -38,3 +38,17 @@ main{
 #message{
     font-style: italic;
 }
+
+.globe{
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 25%, #ffffff, #cfe6ff 65%, #9dc4ef);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.scene{
+    width: 78%;
+}
