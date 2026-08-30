@@ -79,3 +79,13 @@ button:hover{
 .globe.shaking{
     animation: shake 600ms ease;
 }
+
+
+.snowflake{
+    position:absolute;
+    top: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    animation: snowflake 5s infinite linear;
+}
